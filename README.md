@@ -10,13 +10,16 @@ The school board has requested for the following analyses to be performed and pr
 - scores by school size
 - scores by school type
 
-After learning about the possible occurence of academic dishonesty at Thomas High School, the math and reading scores for all ninth grade students at this school were then excluded from the calculations. The impact of excluding these scores on each of the aforementioned metrics will be discussed.
+After learning about the possible occurence of academic dishonesty at Thomas High School, the math and reading scores for all ninth grade students at this school were replaced with "NaN" (i.e. "not a number") and excluded from the calculations. The impact of excluding these scores on each of the aforementioned metrics will be discussed.
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### How is the district summary affected?
 ![district-summary.PNG](https://github.com/lexyzhong/school-district-analysis/blob/main/Resources/district-summary.PNG)
+- "Total Schools" and "Total Budget" are unaffected by changes in the math and reading scores for ninth grade students at Thomas High School.
+- "Total Students" is unaffected as complete rows of student data were not removed.
+- "Average Math Score", "Average Reading Score", "% Passing Math", "% Passing Reading", and "% Overall Passing" were affected by the exclusion of the math and reading scores for the ninth grade students at Thomas High school (when the values were converted to "NaN") and removal of the count for these students from the total student count.
 
 
 ### How is the school summary affected?
