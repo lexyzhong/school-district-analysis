@@ -10,7 +10,7 @@ The school board has requested for the following analyses to be performed and pr
 - scores by school size
 - scores by school type
 
-Due to the possible occurence of academic dishonesty, the math and reading scores for all ninth grade students at Thomas High School have been excluded from the calculations. We will discuss the impact of excluding these scores on each of the aforementioned metrics.
+After learning about the possible occurence of academic dishonesty at Thomas High School, the math and reading scores for all ninth grade students at this school were then excluded from the calculations. The impact of excluding these scores on each of the aforementioned metrics will be discussed.
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.
