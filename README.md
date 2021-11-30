@@ -55,7 +55,6 @@ See ![PyCitySchools.ipynb](https://github.com/lexyzhong/school-district-analysis
 ![reading-scores-by-grade.PNG](https://github.com/lexyzhong/school-district-analysis/blob/main/Resources/reading-scores-by-grade.PNG)
 
 - math and reading scores for ninth grade students at Thomas High School are "nan" (not available) and other scores are unaffected
-- 
 
 #### Scores by school spending
 ![scores-by-spending.PNG](https://github.com/lexyzhong/school-district-analysis/blob/main/Resources/scores-by-spending.PNG)
