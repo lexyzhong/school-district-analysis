@@ -13,6 +13,10 @@ The school board has requested for the following analyses to be performed and pr
 After learning about the possible occurence of academic dishonesty at Thomas High School, the math and reading scores for all ninth grade students at this school were replaced with "NaN" (i.e. "not a number") and excluded from the calculations. The impact of excluding these scores on each of the aforementioned metrics will be discussed.
 
 ## Results: 
+See ![PyCitySchools_Challenge.ipynb](https://github.com/lexyzhong/school-district-analysis/blob/main/PyCitySchools_Challenge.ipynb) for new analysis in which the ninth grade scores for Thomas High School were replaced.
+
+See ![PyCitySchools.ipynb](https://github.com/lexyzhong/school-district-analysis/blob/main/PyCitySchools.ipynb) for original analysis.
+
 ### How is the district summary affected?
 ![district-summary.PNG](https://github.com/lexyzhong/school-district-analysis/blob/main/Resources/district-summary.PNG)
 
